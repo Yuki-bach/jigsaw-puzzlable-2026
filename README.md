@@ -2,6 +2,8 @@
 
 A tool to find adjacent pairs of white jigsaw puzzle pieces based on their shape.
 
+![Infographic](infographics.png)
+
 ## Setup
 
 ```bash
